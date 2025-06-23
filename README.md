@@ -25,7 +25,7 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
 
 # ⭐ GitHub Stats
 
-[](https://github.com/Icarolordes-dev/Icarolordes-dev#-github-stats)
+[](https://awesome-github-stats.azurewebsites.net/user-stats/Icarolordes-dev?cardType=github&showIcons=false&preferLogin=false&Title=22DD1E&Ring=22DD1E&Border=22DD1E)
 
   
 [![](https://camo.githubusercontent.com/db30510cab0982b084efaef55fe175cf83bf3dfcc159fdf2103a3e122b5285ca/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d496361726f6c6f726465732d646576267468656d653d7675652673686f775f69636f6e733d74727565)](https://github.com//Icarolordes-dev "Perfil do Icaro")  
