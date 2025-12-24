@@ -1,45 +1,77 @@
- <p align="center">
+
+
+<p align="center">
   <a href="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966">
-    <img src="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" alt="Gif Example">
+    <img src="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" alt="GifExample">
   </a>
 </p>
 
-## Sobre Mim 📚
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineer-UniCesumar-blue?style=flat-square&logo=github" alt="College">   
+  <img src="https://img.shields.io/badge/Paid_Media_Strategist-+1M_Investido-green?style=flat-square&logo=google-ads" alt="Experience">
+</p>
 
-[](https://github.com/Icarolordes-dev/Icarolordes-dev#sobre-mim-)
+## 👨‍💻 Sobre Mim
 
-Desde 2020, atuo como Gestor de Tráfego, tendo investido mais de 1M em anúncios online do Google Ads e Meta Ads neste período. Atendi pequenas e médias empresas de mais de quinze segmentos, veiculando anúncios dentro e fora do Brasil. Sempre em busca de novas tecnologias e aprimoramento. Atualmente:
+Sou um **Gestor de Tráfego e Engenheiro de Software em formação** com uma trajetória sólida no marketing digital e tecnologia. Desde 2019, gerenciei mais de R$ 1milhão em investimentos no Google e Meta Ads para diversos setores.
 
-- 🎓 Cursando terceiro período de Engenharia de Software na UniCesumar.
-- 💼 Trabalho como Gerente de Tráfego e Desenvolvedor Web na X.T Digital Marketing.
-- 🌱 Atualmente estou me aperfeiçoando em aplicações com TypeScript e aprendendo mais sobre Banco de dados.
+- 🎓 **Educação:** Cursando Engenharia de Software (5º Período).
+- 💼 **Atualidade:** Gerente de Tráfego e Dev na *X.T Digital Marketing*.
+- 🌱 **Foco:** Aperfeiçoamento em ecossistema *TypeScript* e Arquitetura de Bancos de Dados.
+- 🎯 **Objetivo:** Unir a análise de dados do tráfego pago com a robustez do desenvolvimento de software.
 
+---
 
-## 🛠️ Tecnologias  
+## Tech Stack
+### Front-end 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,typescript,git,github,docker,postgres,mongodb,linux,vscode,figma&theme=light" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
+  </a>
+</p>
+
+### Back-end & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,docker" />
+  </a>
+</p>
+
+### Ferramentas & Operacional
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+  </a>
 </p>
 
 ---
 
-## ⭐ GitHub Stats  
 
-<p align="left">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=Icarolordes-dev&show_icons=true&theme=dracula&hide_border=true&border_radius=12" />
+## 📊 GitHub Analytics
 
-  <img height="160"
-       src="https://streak-stats.demolab.com?user=Icarolordes-dev&theme=dracula&hide_border=true&border_radius=12" />
-</p>
+<div align="center">
 
----
-## 📫 Contato & Redes  
-<p align="left">
-  <a href="mailto:icarollordes@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40"/></a>
-  <a href="https://linkedin.com/in/icarolordes"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40"/></a>
-  <a href="https://wa.me/55XXXXXXXXXXX"><img src="https://img.icons8.com/color/40/whatsapp.png" width="40"/></a>
-  <a href="https://facebook.com/icarolordes"><img src="https://img.icons8.com/color/40/facebook-new.png" width="40"/></a>
-  <a href="https://instagram.com/icarolordes"><img src="https://img.icons8.com/color/40/instagram-new.png" width="40"/></a>
-</p>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Icarolordes-dev&show_icons=true&bg_color=35,0d1117,161b22&title_color=38bdf8&icon_color=fbbf24&text_color=c9d1d9&hide_border=true&border_radius=20" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Icarolordes-dev&layout=compact&langs_count=7&bg_color=35,0d1117,161b22&title_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=20" />
+  <br />
 
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Icarolordes-dev&background=0d1117&stroke=38bdf8&ring=fbbf24&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=38bdf8&hide_border=true&border_radius=7" alt="GitHub Streak" />
 </div>
+<br />
+
+<h5 align="right"> Conecte-se Comigo <h5 />
+<p align="right">
+  <a href="mailto:icarollordes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/icarolordes">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+55027992991483">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/icarolordes">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+ 
