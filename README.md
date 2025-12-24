@@ -23,10 +23,21 @@ Desde 2020, atuo como Gestor de Tráfego, tendo investido mais de 1M em anúncio
 ---
 
 ## ⭐ GitHub Stats  
+
 <div align="left">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Icarolordes-dev&show_icons=true&theme=dracula&hide_border=true&border_radius=12" alt="GitHub Stats"/>  
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Icarolordes-dev&theme=dracula&hide_border=true&border_radius=12" alt="GitHub Streak"/>  
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=Icarolordes-dev&show_icons=true&theme=dracula&hide_border=true&border_radius=12"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="160"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Icarolordes-dev&theme=dracula&hide_border=true&border_radius=12"
+    alt="GitHub Streak"
+  />
 </div>
+
 
 ---
 ## 📫 Contato & Redes  
