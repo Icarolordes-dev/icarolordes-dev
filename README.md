@@ -1,44 +1,72 @@
-
-<p align="center">
-  <a href="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966">
-    <img src="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" alt="Gif Example">
+<div align="center">
+  <!-- Hero GIF -->
+  <a href="https://github.com/Icarolordes-dev">
+    <img src="https://i.imgur.com/A6bWGFl.gif" alt="Ícaro Lordes Hero" width="600" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-UniCesumar-blue?style=flat-square&logo=github" alt="College">   
-  <img src="https://img.shields.io/badge/Paid_Media_Strategist-+1M_Investido-green?style=flat-square&logo=google-ads" alt="Experience">
-</p>
+  <br />
+
+  <h1>Sou o Ícaro Lordes 👋 </h1>
+  <div align="center">
+  <img src="https://img.shields.io/github/followers/Icarolordes-dev?label=Follow&style=social" />
+</div>
+<br/>
+  <p align="center">
+ <b>Software Engineer | Web Developer | Paid Media & Data-Driven Marketer</b>
+    <br/>
+<i>Transformando dados em código e código em crescimento exponencial.</i>
+  </p>
+</div>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Software_Engineer-UniCesumar-38bdf8?style=flat-square&logo=github&logoColor=white" alt="College" />   
+      <br/>
+    <img src="https://img.shields.io/badge/Paid_Media_Strategist-+1M_Invested-10b981?style=flat-square&logo=google-ads&logoColor=white" alt="Experience" />
+      <br/>
+    <img src="https://img.shields.io/badge/Focus-TypeScript_%26_Architecture-fbbf24?style=flat-square" alt="Focus" />
+  </p>
+  
+  ---
 
 ## Sobre Mim
 
-Sou um **Gestor de Tráfego e Desenvolvedor Web** com uma trajetória sólida no marketing digital e tecnologia. Desde 2020, gerenciei mais de R$ 1 milhão em investimentos no Google e Meta Ads para diversos setores.
-- 🎓 **Educação:** Cursando Engenharia de Software (3º Período).
-- 💼 **Atualidade:** Gerente de Tráfego e Dev na **X.T Digital Marketing**.
-- 🌱 **Foco:** Aperfeiçoamento em ecossistema **TypeScript** e Arquitetura de Bancos de Dados.
-- 🎯 **Objetivo:** Unir a análise de dados do tráfego pago com a robustez do desenvolvimento de software.
+Sou um desenvolvedor que transita entre a precisão da **Engenharia de Software** e a inteligência analítica do **Marketing de Performance**. Minha trajetória é marcada pela gestão de mais de **R$ 1 milhão em investimentos** (Google/Meta Ads), o que me conferiu uma visão única sobre o impacto de produtos digitais no mundo real.
+
+- 🎓 **Acadêmico:** Cursando Engenharia de Software na UniCesumar (3º Período).
+- 💼 **Atualidade:** Tech Lead & Performance Manager na **X.T Digital Marketing**.
+- 🛠️ **Missão:** Construir arquiteturas robustas, escaláveis e orientadas a dados.
+- 🎯 **Diferencial:** Domínio do ecossistema Full-Stack aliado à análise crítica de tráfego e conversão.
 
 ---
 
-## Tech Stack
-### Front-end 
+## Tech Stack & Tooling
+
+Abaixo, as tecnologias que utilizo para dar vida a projetos escaláveis e otimizados:
+
+### Front-end & Design
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,figma,photoshop" />
   </a>
 </p>
 
-### Back-end & Databases
+### Back-end & Bancos de Dados
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,graphql,postgres,mongodb,mysql,firebase,supabase,appwrite" />
   </a>
 </p>
 
-### Ferramentas & Operacional
+### Linguagens, Infra & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,django,linux,ubuntu,docker,kubernetes,aws,gcp,azure,digitalocean" />
+  </a>
+</p>
+
+### Especialidades & Operacional
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wordpress,framer,tensorflow,pytorch" />
   </a>
 </p>
 
@@ -47,30 +75,48 @@ Sou um **Gestor de Tráfego e Desenvolvedor Web** com uma trajetória sólida no
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Icarolordes-dev&show_icons=true&bg_color=35,0d1117,161b22&title_color=38bdf8&icon_color=fbbf24&text_color=c9d1d9&hide_border=true&border_radius=20" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Icarolordes-dev&layout=compact&langs_count=7&bg_color=35,0d1117,161b22&title_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=20" />
-  
-  <br />
-
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Icarolordes-dev&background=0d1117&stroke=38bdf8&ring=fbbf24&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=38bdf8&hide_border=true" alt="GitHubStreak" />
+  <!-- GitHub Stats and Languages -->
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Icarolordes-dev&show_icons=true&bg_color=0d1117&title_color=38bdf8&icon_color=fbbf24&text_color=c9d1d9&hide_border=true&border_radius=15&count_private=true" />
+   <br />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Icarolordes-dev&layout=compact&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=15" />
+   <br />
+  <!-- GitHub Streak Stats -->
+  <img width="43%" src="https://github-readme-streak-stats.herokuapp.com?user=Icarolordes-dev&background=0d1117&stroke=38bdf8&ring=fbbf24&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=38bdf8&hide_border=true" alt="GitHubStreak" />
 </div>
 
 ---
+
+<h5 align="left"> Blogs <h5 />
+<p align="left">
+  <!-- Secondary Socials -->
+  <a href="https://www.gitlab.com/Icarolordes-dev">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://Icarolordes-dev.hashnode.dev">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://www.dev.to/Icarolordes-dev">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://www.stackoverflow.com/users/Icarolordes-dev">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
+  </a>
+</p>
 
 
 <h5 align="right"> Conecte-se Comigo <h5 />
 
 <p align="right">
   <a href="mailto:icarollordes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/icarolordes">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/+55027992991483">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://instagram.com/icarolordes">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
