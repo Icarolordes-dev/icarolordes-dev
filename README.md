@@ -6,11 +6,10 @@
 
   <br />
 
-  <h1>Sou o Ícaro Lordes 👋 </h1>
+  <h2>Sou o Ícaro Lordes 👋 </h2>
   <div align="center">
   <img src="https://img.shields.io/github/followers/Icarolordes-dev?label=Follow&style=social" />
 </div>
-<br/>
   <p align="center">
  <b>Software Engineer | Web Developer | Paid Media & Data-Driven Marketer</b>
     <br/>
@@ -19,7 +18,7 @@
 </div>
   <p align="center">
     <img src="https://img.shields.io/badge/Software_Engineer-UniCesumar-38bdf8?style=flat-square&logo=github&logoColor=white" alt="College" />   
-      <br/>
+          <br/>
     <img src="https://img.shields.io/badge/Paid_Media_Strategist-+1M_Invested-10b981?style=flat-square&logo=google-ads&logoColor=white" alt="Experience" />
       <br/>
     <img src="https://img.shields.io/badge/Focus-TypeScript_%26_Architecture-fbbf24?style=flat-square" alt="Focus" />
@@ -31,7 +30,7 @@
 
 Sou um desenvolvedor que transita entre a precisão da **Engenharia de Software** e a inteligência analítica do **Marketing de Performance**. Minha trajetória é marcada pela gestão de mais de **R$ 1 milhão em investimentos** (Google/Meta Ads), o que me conferiu uma visão única sobre o impacto de produtos digitais no mundo real.
 
-- 🎓 **Acadêmico:** Cursando Engenharia de Software na UniCesumar (3º Período).
+- 🎓 **Acadêmico:** Cursando Engenharia de Software na UniCesumar (5º Período).
 - 💼 **Atualidade:** Tech Lead & Performance Manager na **X.T Digital Marketing**.
 - 🛠️ **Missão:** Construir arquiteturas robustas, escaláveis e orientadas a dados.
 - 🎯 **Diferencial:** Domínio do ecossistema Full-Stack aliado à análise crítica de tráfego e conversão.
@@ -77,11 +76,10 @@ Abaixo, as tecnologias que utilizo para dar vida a projetos escaláveis e otimiz
 <div align="center">
   <!-- GitHub Stats and Languages -->
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Icarolordes-dev&show_icons=true&bg_color=0d1117&title_color=38bdf8&icon_color=fbbf24&text_color=c9d1d9&hide_border=true&border_radius=15&count_private=true" />
-   <br />
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Icarolordes-dev&layout=compact&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=15" />
    <br />
   <!-- GitHub Streak Stats -->
-  <img width="43%" src="https://github-readme-streak-stats.herokuapp.com?user=Icarolordes-dev&background=0d1117&stroke=38bdf8&ring=fbbf24&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=38bdf8&hide_border=true" alt="GitHubStreak" />
+  <img width="67%" src="https://github-readme-streak-stats.herokuapp.com?user=Icarolordes-dev&background=0d1117&stroke=38bdf8&ring=fbbf24&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=38bdf8&hide_border=true" alt="GitHubStreak" />
 </div>
 
 ---
